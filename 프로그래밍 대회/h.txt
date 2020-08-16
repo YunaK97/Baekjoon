@@ -1,0 +1,13 @@
+4 3
+red
+ruby
+run
+rojon
+shift
+joker
+noon
+4
+redshift
+redrojon
+rubynoon
+runs
